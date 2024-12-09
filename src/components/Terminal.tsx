@@ -24,7 +24,7 @@ export default function Terminal() {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white p-4 font-mono">
+    <div className="">
       <div className="max-w-4xl mx-auto">
         <TerminalHeader />
 
