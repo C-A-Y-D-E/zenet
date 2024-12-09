@@ -1,4 +1,4 @@
-import Logo from '../assets/logozenet.png'
+import Logo from '../assets/hero2.png'
 import LogoText from '../assets/zenete.png'
 export default function Hero() {
     return <div className='relative z-10'>
