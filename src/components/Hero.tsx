@@ -1,7 +1,7 @@
 import Logo from '../assets/logozenet.png'
 import LogoText from '../assets/zenete.png'
 export default function Hero() {
-    return <div>
+    return <div className='relative z-10'>
 
         <div className="flex justify-between  gap-6">
            
