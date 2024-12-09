@@ -1,7 +1,7 @@
 import React from 'react';
 import Terminal from './components/Terminal';
 import Hero from './components/Hero';
-import BgVideo from './assets/bg.mp4'
+import BgVideo from './assets/bg2.mp4'
 
 function App() {
   return <div className='min-h-screen bg-black text-white p-4 font-mono'>
